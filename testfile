@@ -1,0 +1,2 @@
+script:
+echo My travis script is running
